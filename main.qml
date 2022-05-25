@@ -16,7 +16,6 @@ Window {
         anchors.leftMargin: 16
         width: 120
         MenuButton {
-            id:but
             buttonText: "Play"
             width: parent.width
         }
